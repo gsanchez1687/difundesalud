@@ -1,5 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/gsanchez1687/difundesalud/main/images/app.png)
 
+![Captura](https://raw.githubusercontent.com/gsanchez1687/difundesalud/main/images/DifundeSalud/captura.jpg)
+
 ## DifundeSalud con Yii Framework
 
 ### Proyecto que muestra las jornada de vacunación mas cercara segun tu geolocalización
